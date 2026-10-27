@@ -1,2 +1,3 @@
 # learn-github
-for learning only.
+Hello, my name is **Kevin**. This is a testing repository.
+
